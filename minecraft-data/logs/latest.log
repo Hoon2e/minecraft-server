@@ -1,0 +1,127 @@
+[10:38:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:38:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:38:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:38:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:38:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:38:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:38:20] [Worker-Main-6/INFO]: Loaded 7 recipes
+[10:38:22] [Worker-Main-6/INFO]: Loaded 1141 advancements
+[10:38:26] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[10:38:26] [Server thread/INFO]: Loading properties
+[10:38:26] [Server thread/INFO]: Default game type: SURVIVAL
+[10:38:26] [Server thread/INFO]: Generating keypair
+[10:38:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:38:27] [Server thread/INFO]: Using epoll channel type
+[10:38:28] [Server thread/INFO]: Preparing level "world"
+[10:38:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:38:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:41] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:41] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:38:46] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:38:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:38:47] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:38:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:38:50] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[10:38:50] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[10:38:51] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[10:38:51] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[10:38:52] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[10:38:52] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[10:38:53] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[10:38:53] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[10:38:54] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[10:38:54] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[10:38:55] [Worker-Main-4/INFO]: Preparing spawn area: 10%
+[10:38:55] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[10:38:56] [Worker-Main-4/INFO]: Preparing spawn area: 15%
+[10:38:56] [Worker-Main-4/INFO]: Preparing spawn area: 15%
+[10:38:57] [Worker-Main-4/INFO]: Preparing spawn area: 15%
+[10:38:57] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[10:38:58] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[10:38:58] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[10:38:59] [Worker-Main-5/INFO]: Preparing spawn area: 22%
+[10:38:59] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[10:39:00] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[10:39:00] [Worker-Main-4/INFO]: Preparing spawn area: 26%
+[10:39:01] [Worker-Main-5/INFO]: Preparing spawn area: 26%
+[10:39:01] [Worker-Main-6/INFO]: Preparing spawn area: 26%
+[10:39:02] [Worker-Main-5/INFO]: Preparing spawn area: 26%
+[10:39:02] [Worker-Main-4/INFO]: Preparing spawn area: 26%
+[10:39:03] [Worker-Main-5/INFO]: Preparing spawn area: 28%
+[10:39:03] [Worker-Main-6/INFO]: Preparing spawn area: 29%
+[10:39:04] [Worker-Main-6/INFO]: Preparing spawn area: 30%
+[10:39:04] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[10:39:06] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[10:39:06] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[10:39:06] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[10:39:06] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[10:39:07] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[10:39:07] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[10:39:08] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[10:39:08] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[10:39:09] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[10:39:09] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[10:39:10] [Worker-Main-4/INFO]: Preparing spawn area: 38%
+[10:39:10] [Worker-Main-6/INFO]: Preparing spawn area: 41%
+[10:39:11] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[10:39:11] [Worker-Main-4/INFO]: Preparing spawn area: 46%
+[10:39:12] [Worker-Main-5/INFO]: Preparing spawn area: 48%
+[10:39:12] [Worker-Main-5/INFO]: Preparing spawn area: 50%
+[10:39:13] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[10:39:13] [Worker-Main-4/INFO]: Preparing spawn area: 58%
+[10:39:14] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[10:39:14] [Worker-Main-5/INFO]: Preparing spawn area: 66%
+[10:39:15] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[10:39:15] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[10:39:16] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[10:39:16] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[10:39:17] [Worker-Main-5/INFO]: Preparing spawn area: 76%
+[10:39:17] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[10:39:18] [Worker-Main-5/INFO]: Preparing spawn area: 81%
+[10:39:18] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[10:39:19] [Worker-Main-5/INFO]: Preparing spawn area: 88%
+[10:39:19] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[10:39:19] [User Authenticator #1/INFO]: UUID of player SoftenAr is 9dbdd031-69fa-4c29-a20c-aa3690e1a3f7
+[10:39:20] [Worker-Main-4/INFO]: Preparing spawn area: 95%
+[10:39:22] [Server thread/INFO]: Time elapsed: 51579 ms
+[10:39:22] [Server thread/INFO]: Done (53.182s)! For help, type "help"
+[10:39:22] [Server thread/INFO]: Starting remote control listener
+[10:39:22] [Server thread/INFO]: Thread RCON Listener started
+[10:39:22] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[10:39:25] [Server thread/INFO]: SoftenAr[/172.20.0.1:48734] logged in with entity id 83 at (-251.48489213875402, 63.0, 332.7103117274858)
+[10:39:25] [Server thread/INFO]: SoftenAr joined the game
+[10:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8350ms or 167 ticks behind
+[10:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13799ms or 275 ticks behind
+[10:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
